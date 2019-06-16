@@ -1,4 +1,5 @@
-figlet Mr.Ril Tools | lolcat
+
+echo figlet Mr.Ril Tools | lolcat
 
 echo
 
@@ -36,10 +37,7 @@ echo "╭─Mr.Ril" |lolcat
 read -p "╰─#" pil;
 
 
-case $pil in
-1) pkg install nmap
-echo "${y} {1} Masukkan Web${endc}:"
-read web
-nmap $web
-echo
+
+
+
 
