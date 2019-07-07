@@ -11,7 +11,8 @@ sleep 3
 
 echo "Masukan no rek Anda :"
 read nomor rekening
-echo "Masukan no rek Target :" 
+echo "Masukan nominal.
+contoh: Rp.1.000.000,-" 
 read nomor rekening
 echo "Mohon tunggu proses sedang berjalan.."
 sleep 3
@@ -19,7 +20,7 @@ echo " Memuat.."
 sleep 2
 echo "PROSES SELSAI"
 sleep 2 
-figlet GUNAKAN TOOLS INI DENGAN BIJAK | lolcata
+figlet GUNAKAN TOOLS INI DENGAN BIJAK | lolcat
 sleep 4
 clear
 
