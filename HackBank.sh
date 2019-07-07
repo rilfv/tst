@@ -11,12 +11,12 @@ sleep 3
 
 echo "Masukan no rek Anda :"
 read nomor rekening
-echo "Masukan nominal.
+echo "Masukan nominal:
 contoh: Rp.1.000.000,-" 
 read nomor rekening
 echo "Mohon tunggu proses sedang berjalan.."
 sleep 3
-echo " Sedang bekerja.." 
+echo " Sedang bekerja...." 
 sleep 5
 echo "PROSES SELSAI"
 sleep 2 
