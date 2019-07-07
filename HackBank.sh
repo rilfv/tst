@@ -9,15 +9,15 @@ sleep 2
 
 
 
-echo "Masukan no rek Anda :" | figlet
+echo "Masukan no rek Anda :" | lolcat
 read nomor rekening
-echo "Masukan no rek Target :" | figlet
+echo "Masukan no rek Target :" | lolcat
 read nomor rekening
-echo "Mohon tunggu proses sedang berjalan.." | figlet
+echo "Mohon tunggu proses sedang berjalan.." | lolcat
 sleep 3
-echo " Memuat.." | figlet
+echo " Memuat.." | lolcat
 sleep 2
-echo "PROSES SELSAI" | figlet
+echo "PROSES SELSAI" | lolcat
 sleep 2 
 figlet GUNAKAN TOOLS INI DENGAN BIJAK | lolcat
 sleep 1
