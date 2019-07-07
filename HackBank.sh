@@ -16,8 +16,8 @@ contoh: Rp.1.000.000,-"
 read nomor rekening
 echo "Mohon tunggu proses sedang berjalan.."
 sleep 3
-echo " Memuat.." 
-sleep 2
+echo " Sedang bekerja.." 
+sleep 5
 echo "PROSES SELSAI"
 sleep 2 
 figlet GUNAKAN TOOLS INI DENGAN BIJAK | lolcat
