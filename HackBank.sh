@@ -3,8 +3,8 @@ echo "#####################################
 # Contac Me :Bct5087@gmail.com      #
 #####################################" | lolcat
 sleep 2
-echo #GUNAKAN TOOLS INI DENGAN BIJAK 
-echo #SEGALA RESIKO BUKAN TANGGUNG JAWAB KAMI
+echo "GUNAKAN TOOLS INI DENGAN BIJAK" | lolcat
+echo "SEGALA RESIKO BUKAN TANGGUNG JAWAB KAMI" | lolcat
 sleep 3
 
 
@@ -19,7 +19,7 @@ echo " Memuat.."
 sleep 2
 echo "PROSES SELSAI"
 sleep 2 
-echo #GUNAKAN TOOLS INI DENGAN BIJAK 
+figlet GUNAKAN TOOLS INI DENGAN BIJAK | lolcata
 sleep 4
 clear
 
